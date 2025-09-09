@@ -57,7 +57,11 @@ Please note that for the different prediction methods in the EC number predictio
  - [`UniKP`](https://github.com/Luo-SynBioLab/UniKP)  
  - [`TurNuP`](https://github.com/AlexanderKroll/kcat_prediction)  
  - [`Boost_KM`](https://github.com/AlexanderKroll/KM_prediction)  
-
+- **enzymesubstrate_prediction:** 
+ - [`ESP`](https://github.com/AlexanderKroll/ESP)  
+ - [`ProSmith`](https://github.com/AlexanderKroll/ProSmith)  
+ - [`EnzRank`](https://github.com/maranasgroup/EnzRank)
+ - 
 ## Model Availability
 The Yeast-MetaTwin (non-lipids) and Yeast-MetaTwin (non-lipids and lipids) models are available in `./Data/model`.
 
