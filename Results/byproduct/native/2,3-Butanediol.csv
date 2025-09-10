@@ -1,2 +1,4 @@
 Product name,Predicted reaction number,Predicted reaction Yeast-MetaTwin ID,Predicted reaction,Predicted genes of reaction
-"2,3-Butanediol",1,rxn1560,"(R,R)-2,3-butanediol + 3-hydroxybenzaldehyde => (R)-acetoin + 3-hydroxybenzyl alcohol",YGR255C or YDL178W or YCL005W-A or YIR028W or YEL071W
+"2,3-Butanediol",1,r_0003,"(R,R)-2,3-butanediol + NAD => (R)-acetoin + H+ + NADH",YAL060W
+"2,3-Butanediol",2,r_1097," => (R,R)-2,3-butanediol",
+"2,3-Butanediol",3,rxn1560,"(R,R)-2,3-butanediol + 3-hydroxybenzaldehyde => (R)-acetoin + 3-hydroxybenzyl alcohol",YGR255C or YDL178W or YCL005W-A or YIR028W or YEL071W

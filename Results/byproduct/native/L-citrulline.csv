@@ -1,0 +1,3 @@
+Product name,Predicted reaction number,Predicted reaction Yeast-MetaTwin ID,Predicted reaction,Predicted genes of reaction
+L-citrulline,1,r_0208,ATP + L-aspartate + L-citrulline => (N(omega)-L-arginino)succinic acid + AMP + diphosphate + H+,YOL058W
+L-citrulline,2,r_4469,H+ + L-citrulline => ,YKR039W

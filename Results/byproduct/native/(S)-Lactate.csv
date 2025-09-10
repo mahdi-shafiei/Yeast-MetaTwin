@@ -1,0 +1,4 @@
+Product name,Predicted reaction number,Predicted reaction Yeast-MetaTwin ID,Predicted reaction,Predicted genes of reaction
+(S)-Lactate,1,r_0004,(S)-lactate + 2 ferricytochrome c => 2 ferrocytochrome c + pyruvate,(YEL039C and YML054C) or (YJR048W and YML054C)
+(S)-Lactate,2,r_1206, => (S)-lactate,YKL217W
+(S)-Lactate,3,r_4711,(S)-lactate + ethanol + H+ => H2O + ethyl (2S)-lactate,YOR126C

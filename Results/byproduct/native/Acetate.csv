@@ -1,0 +1,8 @@
+Product name,Predicted reaction number,Predicted reaction Yeast-MetaTwin ID,Predicted reaction,Predicted genes of reaction
+Acetate,1,r_0112,acetate + ATP + coenzyme A => acetyl-CoA + AMP + diphosphate,YAL054C or YLR153C
+Acetate,2,r_1106, => acetate,YCR010C
+Acetate,3,r_1635, => acetate,
+Acetate,4,r_4397,H2O + N(alpha)-acetyl-L-methionine => acetate + L-methionine,
+Acetate,5,r_4569,acetate + H+ + Hydroquinone => H2O + 4-hydroxyphenyl acetate,
+Acetate,6,r_4602, => acetate,
+Acetate,7,r_4717,acetate + H+ + benzyl alcohol => H2O + benzyl acetate,YOR126C

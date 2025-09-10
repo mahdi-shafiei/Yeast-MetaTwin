@@ -1,0 +1,4 @@
+Product name,Predicted reaction number,Predicted reaction Yeast-MetaTwin ID,Predicted reaction,Predicted genes of reaction
+Isobutanol,1,r_0161,acetyl-CoA + isobutanol => coenzyme A + isobutyl acetate,YGR177C or YOR377W
+Isobutanol,2,r_1868, => isobutanol,
+Isobutanol,3,r_1869, => isobutanol,

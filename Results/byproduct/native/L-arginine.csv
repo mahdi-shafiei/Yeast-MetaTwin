@@ -1,2 +1,10 @@
 Product name,Predicted reaction number,Predicted reaction Yeast-MetaTwin ID,Predicted reaction,Predicted genes of reaction
-L-arginine,1,rxn1243,L-arginine + oxygen => 4-guanidinobutanamide + carbon dioxide + H2O,YJR149W or YIL173W or YJL222W or YDR260C or YCR083W or YDR453C or YHR211W or YKR066C or YDL004W or YBL064C or YDR256C or YIL010W or YBR244W or YAL063C or YDR322C-A or YIR037W or YCL035C or YGR088W or YLR109W or YKL026C or YAR050W
+L-arginine,1,r_0206,H2O + L-arginine => ornithine + urea,YPL111W
+L-arginine,2,r_0207,(N(omega)-L-arginino)succinic acid => fumarate + L-arginine,YHR018C
+L-arginine,3,r_0209,ATP + L-arginine + tRNA(Arg) => AMP + Arg-tRNA(Arg) + diphosphate,YDR341C
+L-arginine,4,r_1184,H+ + L-arginine => ,YEL063C or YKR039W or YNL270C
+L-arginine,5,r_1185,H+ => L-arginine,YOL092W or YBR293W
+L-arginine,6,r_1657, => H+ + L-arginine,YBR147W
+L-arginine,7,r_4161,L-arginine => ,YBR147W or YDR352W
+L-arginine,8,r_4366,ADP + H+ + N(omega)-phospho-L-arginine => ATP + L-arginine,
+L-arginine,9,rxn1243,L-arginine + oxygen => 4-guanidinobutanamide + carbon dioxide + H2O,YJR149W or YIL173W or YJL222W or YDR260C or YCR083W or YDR453C or YHR211W or YKR066C or YDL004W or YBL064C or YDR256C or YIL010W or YBR244W or YAL063C or YDR322C-A or YIR037W or YCL035C or YGR088W or YLR109W or YKL026C or YAR050W

@@ -1,0 +1,5 @@
+Product name,Predicted reaction number,Predicted reaction Yeast-MetaTwin ID,Predicted reaction,Predicted genes of reaction
+Urea,1,r_0189,allantoate + H2O => urea + ureidoglycolic acid,YIR029W
+Urea,2,r_1075,ATP + bicarbonate + urea => ADP + H+ + phosphate + urea-1-carboxylic acid,YBR208C
+Urea,3,r_1273,2 H+ + urea => ,YHL016C
+Urea,4,r_4210,urea => H2O + Cyanamide,YFL061W or YNL335W

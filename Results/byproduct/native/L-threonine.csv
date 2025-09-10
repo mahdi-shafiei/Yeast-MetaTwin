@@ -1,0 +1,8 @@
+Product name,Predicted reaction number,Predicted reaction Yeast-MetaTwin ID,Predicted reaction,Predicted genes of reaction
+L-threonine,1,r_0692,L-threonine => 2-oxobutanoate + ammonium,YCL064C
+L-threonine,2,r_1040,L-threonine => acetaldehyde + L-glycine,YEL046C
+L-threonine,3,r_1042,ATP + L-threonine + tRNA(Thr) => AMP + diphosphate + Thr-tRNA(Thr),YIL078W
+L-threonine,4,r_1218,H+ + L-threonine => ,YCL025C or YDR508C or YKR039W
+L-threonine,5,r_2072, => L-threonine,YDR508C
+L-threonine,6,r_4247,ATP + bicarbonate + L-threonine => diphosphate + H2O + L-Threonylcarbamoyladenylate,YGL169W
+L-threonine,7,r_4441, => L-threonine,

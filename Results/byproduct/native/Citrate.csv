@@ -1,2 +1,10 @@
 Product name,Predicted reaction number,Predicted reaction Yeast-MetaTwin ID,Predicted reaction,Predicted genes of reaction
-Citrate,1,rxn78,2-oxoglutarate + citrate => homocitrate + oxaloacetate,YGR255C or YDL178W or YCL005W-A or YIR028W or YEL071W
+Citrate,1,r_0303,citrate => cis-aconitate + H2O,YLR304C
+Citrate,2,r_1112,citrate => 2-oxoglutarate,YMR241W
+Citrate,3,r_1126,(S)-malate => citrate,YBR291C
+Citrate,4,r_1127,phosphoenolpyruvate => citrate,YBR291C
+Citrate,5,r_1128,isocitrate => citrate,YBR291C
+Citrate,6,r_1686,citrate => ,
+Citrate,7,r_1688,isocitrate => citrate,
+Citrate,8,r_1689,citrate => (S)-malate,
+Citrate,9,rxn78,2-oxoglutarate + citrate => homocitrate + oxaloacetate,YGR255C or YDL178W or YCL005W-A or YIR028W or YEL071W
