@@ -66,7 +66,7 @@ Please note that for the different prediction methods in the EC number predictio
 The Yeast-MetaTwin (non-lipids) and Yeast-MetaTwin (non-lipids and lipids) models are available in `./Data/model`.
 
 ## Citation
-Please cite the prpint paper [Yeast-MetaTwin for Systematically Exploring Yeast Metabolism through Retrobiosynthesis and Deep Learning](https://doi.org/10.1101/2024.09.02.610684)
+Please cite the preprint paper [Yeast-MetaTwin for Systematically Exploring Yeast Metabolism through Retrobiosynthesis and Deep Learning](https://doi.org/10.1101/2024.09.02.610684)
 
 Contact
 -------
